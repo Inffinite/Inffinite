@@ -1,6 +1,6 @@
 ## :hammer: Developer 
 
-- Frontend [React/Vuejs] [![Generic badge](https://img.shields.io/badge/Prefers%20React-blue)](https://shields.io/)
+- Frontend [React/Vuejs] [![Generic badge](https://img.shields.io/badge/Prefers%20Vue-blue)](https://shields.io/)
 
 - ServerSide [nodejs]
 
