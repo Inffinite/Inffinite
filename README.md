@@ -1,3 +1,7 @@
+![](https://avatars2.githubusercontent.com/u/51359048?s=460&u=54f8145de7d9475e543dcc04f9128f925713a94e&v=4)
+
+
+
 ## :hammer: Developer 
 
 - Frontend [React/Vuejs] [![Generic badge](https://img.shields.io/badge/Prefers%20Vue-blue)](https://shields.io/)
