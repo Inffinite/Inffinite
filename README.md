@@ -1,3 +1,7 @@
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Inffinite" alt="Inffinite" /></p>
+
+[![Emmanuel's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Inffinite&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/Inffinite)
+
 
 ## :hammer: Developer  /  :art: Graphic Designer
 
