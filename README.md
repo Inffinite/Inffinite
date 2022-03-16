@@ -2,14 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Inffinite&style=for-the-badge)
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-
 ## ##
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Inffinite" alt="Inffinite" />
 
 <p align="center">
+  
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 [![GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Inffinite&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/Inffinite)
 
