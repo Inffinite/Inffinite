@@ -13,6 +13,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inffinite&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Inffinite&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Inffinite&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
